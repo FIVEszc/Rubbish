@@ -1,0 +1,27 @@
+# IDE and editor state
+.idea/
+.vscode/
+
+# Python cache and build outputs
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Runtime logs and temporary files
+runs/
+*.log
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
